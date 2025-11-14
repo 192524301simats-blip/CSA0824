@@ -1,0 +1,9 @@
+dec=10
+print(bin(dec),"in binary.")
+print(oct(dec),"in octal.")
+print(hex(dec),"in hexadecimal.")
+
+output
+0b1010 in binary.
+0o12 in octal.
+0xa in hexadecimal.
