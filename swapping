@@ -1,0 +1,12 @@
+x=5
+y=10
+temp=x
+x=y
+y=temp
+print('The valu of x after swapping:{}'.format(x))
+print('The valu of y after swapping:{}'.format(y))
+
+output
+
+The valu of x after swapping:10
+The valu of y after swapping:5
